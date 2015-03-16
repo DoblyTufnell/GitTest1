@@ -1,1 +1,2 @@
 C:\Dev\GitTest1\Gt1\bin\Debug\Gt1.exe.config
+C:\dev\test\Gt1\bin\Debug\Gt1.exe.config
